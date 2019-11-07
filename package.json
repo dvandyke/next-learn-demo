@@ -2,9 +2,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "lint-fix": "prettier --write **/**/*",
-    "start": "next start - $PORT",
-    "heroku-postbuild": "next build"
+    "lint-fix": "prettier --write **/**/*"
   },
   "devDependencies": {
     "prettier": "^1.16.4"
