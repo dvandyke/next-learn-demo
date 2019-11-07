@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@salesforce-ux/design-system": "^2.10.2",
+    "@salesforce/design-system-react": "^0.10.13",
+    "@zeit/next-css": "^1.0.1",
     "next": "^9.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
